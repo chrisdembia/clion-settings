@@ -1,0 +1,14 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="REFORMAT_BLOCK_ON_RBRACE" value="false" />
+    <option name="REFORMAT_ON_PASTE" value="1" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="No Inspections" />
+  <component name="OCCodeFoldingSettings">
+    <option name="collapseTemplateParamList" value="false" />
+    <option name="COLLAPSE_TEMPLATE_PARAM_LIST" value="false" />
+  </component>
+</application>

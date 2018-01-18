@@ -1,0 +1,23 @@
+<scheme name="Darcula PragmataPro" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="PragmataPro" />
+  <attributes>
+    <option name="BOOKMARKS_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value />
+    </option>
+  </attributes>
+</scheme>

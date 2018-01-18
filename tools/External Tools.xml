@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="Make RelWithDebInfo" description="Run &quot;make&quot;" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/make" />
+      <option name="PARAMETERS" value="-j4 install" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/nmblprojects/tomu/muscollo/cmake-build-relwithdebinfo" />
+    </exec>
+  </tool>
+  <tool name="Make Debug" description="Run &quot;make&quot;" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="/usr/bin/make" />
+      <option name="PARAMETERS" value="-j4 install" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/nmblprojects/tomu/muscollo/cmake-build-debug" />
+    </exec>
+  </tool>
+</toolSet>

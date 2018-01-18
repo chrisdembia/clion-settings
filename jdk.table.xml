@@ -1,0 +1,112 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.10 (/usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="/usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jar:///usr/local/lib/python2.7/site-packages/perimysium-0.1-py2.7.egg!/" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/site-packages/opensim-4.0-py2.7.egg" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/site-packages/pydy-0.4.0.dev0-py2.7.egg" type="simple" />
+            <root url="jar:///usr/local/lib/python2.7/site-packages/subprocess32-3.2.7-py2.7-macosx-10.10-x86_64.egg!/" type="simple" />
+            <root url="jar:///usr/local/lib/python2.7/site-packages/glob2-0.4.1-py2.7.egg!/" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/site-packages/cget-0.0.9-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/repos/openai/universe" type="simple" />
+            <root url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file:///usr/local/Cellar/numpy/1.10.1/libexec/nose/lib/python2.7/site-packages" type="simple" />
+            <root url="file:///usr/local/Cellar/protobuf/2.6.1/libexec/lib/python2.7/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/site-packages/wx-3.0-osx_cocoa" type="simple" />
+            <root url="file:///Library/Python/2.7/site-packages" type="simple" />
+            <root url="file:///Library/Python/2.7/site-packages/pip-7.0.3-py2.7.egg" type="simple" />
+            <root url="file:///Library/Python/2.7/site-packages/pydy-0.3.0.dev-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/CLion2016.3/python_stubs/-1690607619" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.14 (/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.14" />
+      <homePath value="/usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file:///usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///usr/local/Cellar/python/2.7.14/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/site-packages" type="simple" />
+            <root url="jar:///usr/local/lib/python2.7/site-packages/perimysium-0.1-py2.7.egg!/" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/site-packages/pydy-0.4.0.dev0-py2.7.egg" type="simple" />
+            <root url="jar:///usr/local/lib/python2.7/site-packages/subprocess32-3.2.7-py2.7-macosx-10.10-x86_64.egg!/" type="simple" />
+            <root url="jar:///usr/local/lib/python2.7/site-packages/glob2-0.4.1-py2.7.egg!/" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/site-packages/cget-0.0.9-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/repos/openai/universe" type="simple" />
+            <root url="file:///usr/local/Cellar/numpy/1.10.1/libexec/nose/lib/python2.7/site-packages" type="simple" />
+            <root url="file:///usr/local/Cellar/protobuf/2.6.1/libexec/lib/python2.7/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/site-packages/gtk-2.0" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/site-packages/wx-3.0-osx_cocoa" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/CLion2017.3/python_stubs/181281484" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 (/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/bin/python3.6)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6" type="simple" />
+            <root url="file:///usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///usr/local/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/CLion2017.2/python_stubs/-1645354321" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
